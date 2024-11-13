@@ -2,6 +2,7 @@ import React from "react";
 import Article1Content from "./Article1Content";
 import Indicator1Content from "./Indicator1Content";
 import Link from "next/link";
+import Card from "./Card";
 
 
 // Define the type for each item
@@ -33,20 +34,28 @@ const IndicatorsPage: React.FC = () => {
     return (
         <div className="p-4">
             <h1 className="text-2xl font-bold">Static Articles & Indicators</h1>
-            {items.map((item) => (
-                <div key={item.id} className="my-4 p-4 border rounded-md">
-                    {/* <h2 className="text-xl font-semibold">{item.title}</h2> */}
-                    <h2 className="text-xl font-semibold">
-                        <Link href={`/indicators/${item.id}`}>
-                            {item.title}
-                        </Link>
-                    </h2>
-                    <p className="text-gray-700">{item.description}</p>
-                    <div className="mt-2">
-                        {item.content}
-                    </div>
-                </div>
-            ))}
+            {items.map((item) => {
+                return (
+                    <Card
+                        key={item.id}
+                        id={item.id}
+                        description={item.description}
+                        title={item.title}
+                    />
+                    // <div key={item.id} className="my-4 p-4 border rounded-md">
+
+                    //     <h2 className="text-xl font-semibold">
+                    //         <Link href={`/indicators/${item.id}`}>
+                    //             {item.title}
+                    //         </Link>
+                    //     </h2>
+                    //     <p className="text-gray-700">{item.description}</p>
+                    //     <div className="mt-2">
+                    //         {item.content}
+                    //     </div>
+                    // </div>
+                )
+            })}
         </div>
     )
 };
