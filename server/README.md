@@ -32,3 +32,14 @@ npm view strapi-plugin-fuzzy-search versions
         }
     ]
 }
+
+
+{
+  "version": 2,
+  "builds": [
+    { "src": "/server/src/index.js", "use": "@vercel/node" }
+  ],
+  "routes": [
+    { "src": "/(.*)", "dest": "index.js" }
+  ]
+}
