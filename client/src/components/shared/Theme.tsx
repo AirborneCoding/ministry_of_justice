@@ -35,7 +35,7 @@ const Theme = () => {
         localStorage.setItem('theme', selectedTheme);
     };
 
-    const isDarkTheme = theme === themes.dark;
+    const isDarkTheme = theme === themes.light;
 
     return (
         <div className="flex items-center gap-2">
