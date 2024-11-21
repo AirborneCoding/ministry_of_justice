@@ -1,0 +1,186 @@
+{
+    "NotFoundPage": {
+        "title": "Désolé!!! Page non trouvée - 404",
+        "text": "La page que vous recherchez n'existe pas.",
+        "btnText": "retour à l'accueil"
+    },
+    "Header": {
+        "title": "observatoire national de la criminalité",
+        "home": "Accueil",
+        "observatory": {
+            "label": "Observatoire",
+            "subItems": {
+                "introduction": "Introduction à l'Observatoire",
+                "missions": "Missions et spécialités",
+                "texts": "Textes de référence",
+                "organization": "Organisation structurelle"
+            }
+        },
+        "statistics": {
+            "label": "Statistiques",
+            "subItems": {
+                "main": "statistiques de l'observatoire",
+                "indicators": "Indicateurs statistiques",
+                "global": "Indicateurs mondiaux",
+                "news": "Bulletins statistiques"
+            }
+        },
+        "articles": "Articles",
+        "publications": "Publications",
+        "content": {
+            "label": "Contenu",
+            "subItems": {
+                "reports": "Rapports",
+                "videos": "Médias électroniques",
+                "presentations": "Présentations",
+                "contact": "Contactez-nous"
+            }
+        }
+    },
+    "actions": {
+        "search": "Rechercher",
+        "seeAll": "Voir tout",
+        "resetSearch": "Réinitialiser la recherche",
+        "send": "Envoyer",
+        "download": "Télécharger",
+        "more": "Plus"
+    },
+    "messages": {
+        "searchResults": "Résultat de la recherche",
+        "noResults": "Aucun résultat ne correspond à votre recherche"
+    },
+    "section2": {
+        "title": "Directives Royales Suprêmes",
+        "paragraph1": "Quels que soient les objectifs stratégiques, qui s'inscrivent dans le long terme, ils ne doivent pas occulter le besoin urgent des citoyens de ressentir, à court terme, un impact positif direct des réformes. Par conséquent, nous dirigeons le gouvernement, en particulier le ministère de la Justice, à initier leur mise en œuvre dans six domaines prioritaires. ... Parmi eux : ... Cela nécessite une nouvelle politique pénale, basée sur la révision et l'adaptation de la loi et de la procédure pénale, en tenant compte des évolutions, par la création d’un observatoire national de la criminalité, en harmonie avec la poursuite de la modernisation des institutions réformatrices et pénitentiaires. Parallèlement, il est nécessaire de développer des moyens judiciaires alternatifs, tels que la médiation, l'arbitrage et la conciliation, ainsi que d’adopter des sanctions alternatives, tout en repensant la justice de proximité.",
+        "paragraph2": "Extrait du discours de Sa Majesté le Roi Mohammed VI, que Dieu l’assiste, à l’occasion du 56e anniversaire de la Révolution du Roi et du Peuple – 20 août 2009"
+    },
+    "observatoryInNumbers": {
+        "title": "L'Observatoire en Chiffres",
+        "paragraph1": "Le système du Royaume du Maroc repose sur une monarchie constitutionnelle, démocratique et sociale, ce qui nous oblige, compte tenu des fonctions exercées par le pouvoir judiciaire, à poursuivre le travail visant à renforcer le rôle des institutions, la primauté du droit, la protection de notre société, le renforcement de la sécurité et de la tranquillité, l'encouragement des investissements, et le soutien d’un développement global et durable.",
+        "links": {
+            "administrativeCourts": "Les tribunaux administratifs",
+            "commercialCourts": "Les tribunaux commerciaux",
+            "primaryCourts": "Les tribunaux de première instance",
+            "residentJudgeCenters": "Centres du juge résident"
+        }
+    },
+    "usefulLinks": {
+        "title": "Liens Utiles",
+        "links": {
+            "justiceMinistry": "Ministère de la Justice",
+            "nationalCommitteeAntiTrafficking": "Comité National de Coordination des Mesures de Lutte Contre la Traite des Êtres Humains et de Prévention",
+            "generalDelegationPrisons": "Délégation Générale de l'Administration Pénitentiaire et de la Réinsertion",
+            "publicProsecution": "Présidence du Ministère Public",
+            "supremeCouncilJudicialPower": "Conseil Supérieur du Pouvoir Judiciaire",
+            "generalDirectorateNationalSecurity": "Direction Générale de la Sûreté Nationale"
+        }
+    },
+    "SatisticsPage": {
+        "title": "Statistiques de l'Observatoire National de la Délinquance :",
+        "text": "<p>Statistiques de l'Observatoire national de la criminalité : Analyse des données pour renforcer la sécurité et la sûreté<br/><br/>Les statistiques de l'Observatoire national de la criminalité sont un outil puissant et vital pour comprendre et analyser les phénomènes criminels et leur évolution dans notre société. Les données sont collectées et analysées pour détecter les tendances, les modèles et les informations précieuses qui aident à orienter les efforts de sécurité et à renforcer la sûreté publique.<br/><br/>Les statistiques de l'Observatoire national de la criminalité s'appuient sur un large éventail de sources, notamment les rapports de police, les données judiciaires, les rapports de crimes enregistrés, les enquêtes, les recherches académiques et d'autres sources connexes. Ces données sont analysées par des experts spécialisés pour produire des résultats précieux qui reflètent la situation actuelle de la criminalité et aident à prendre des décisions stratégiques et directrices.<br/><br/>L'un des principaux avantages des statistiques de l'Observatoire national de la criminalité est de fournir une vue d'ensemble des modèles criminels et des problèmes de sécurité auxquels la société est confrontée. Ces données peuvent être utilisées pour identifier les zones à forte incidence criminelle, déterminer les crimes les plus courants, analyser leurs causes et les facteurs de risque associés. Sur la base de ces données, de nouvelles stratégies et politiques peuvent être élaborées pour lutter contre la criminalité et renforcer la sécurité dans la société.</p>",
+        "categories": {
+            "violent_crimes": "Violent Crimes",
+            "violence_against_women": "Violence Against Women",
+            "violence_against_children": "Violence Against Children",
+            "human_trafficking": "Human Trafficking",
+            "children_in_conflict_with_law": "Children in Conflict with the Law",
+            "cyber_crime": "Cyber Crimes",
+            "drugs": "Drugs",
+            "traffic_accidents": "Traffic Accidents"
+        },
+        "news": "Actualité des indicateurs mondiaux"
+    },
+    "videos": {
+        "title": "Observatoire national de la délinquance - Médias électroniques",
+        "description": "Découvrez des vidéos et des rapports éclairants sur les statistiques criminelles, la prévention et les initiatives d’application de la loi."
+    },
+    "contact": {
+        "title": "Contactez-nous",
+        "description": "Vous souhaitez nous contacter ? Choisissez l'une des options ci-dessous et nous serons heureux de répondre à vos questions.",
+        "contact_info": {
+            "title": "Informations de contact",
+            "desc": "Vous avez une question ? Nous sommes là pour vous aider. Vous pouvez nous envoyer un e-mail ou nous appeler par téléphone.",
+            "address": "Institut national de la rédaction et des métiers juridiques et judiciaires, Ministère de la Justice – Technopolis - Salé",
+            "email": "onc_dapg@justice.gov.ma || onc@justice.gov.ma",
+            "phone": "212537213737+"
+        },
+        "form": {
+            "name": "Nom complet",
+            "email": "Adresse e-mail",
+            "message": "Votre message",
+            "submit": "Envoyer le message"
+        }
+    },
+    "missions": {
+        "title": "Les compétences de l'Observatoire National de la Criminalité",
+        "description": "<h4 class='my-5'>L'Observatoire National de la Criminalité contribue à la formulation des orientations de la politique criminelle en surveillant, suivant et analysant le phénomène criminel, ainsi qu'en proposant des plans stratégiques pour la prévention et la lutte contre la criminalité, ce, à travers :</h4><ul><li>Collecte et traitement des statistiques et données criminelles, par la création de bases de données et leur gestion.</li><li>Élaboration d'indicateurs de suivi des tendances criminelles.</li><li>Étude et analyse des phénomènes criminels, à travers la réalisation d'études analytiques pour expliquer et comprendre les phénomènes criminels.</li><li>Réalisation de rapports et analyses et fourniture de recommandations pour soutenir la prise de décision en matière de politique criminelle.</li><li>Contribution à la planification criminelle en proposant des solutions pour la prévention et la lutte contre la criminalité.</li><li>Proposition de mesures pour améliorer et mettre à jour le système juridique pénal et la politique criminelle.</li></ul>",
+        "text": "<div>\n    <h4 className=\"my-5\">\n        La Direction des Affaires Criminelles, de l'Amnistie et de la Surveillance Criminelle est chargée des tâches suivantes :\n    </h4>\n    <ol className=\"pr-6 roles\">\n        <li>Élaboration et mise en œuvre de la stratégie du ministère dans le développement du système judiciaire ;</li>\n        <li>Contribuer à l'élaboration des orientations et des contenus généraux de la politique criminelle ;</li>\n        <li>\n            Contribuer à l'élaboration de projets de textes législatifs et réglementaires de nature\n            criminelle ;\n        </li>\n        <li>\n            Surveillance, suivi et analyse du phénomène criminel et proposition de plans stratégiques\n            visant à prévenir et à combattre la criminalité ;\n        </li>\n        <li>Conduite d'études et réalisation de recherches en matière criminelle ;</li>\n        <li>\n            Préparation des dossiers de demandes et de propositions d'amnistie et de libération conditionnelle,\n            et suivi de leur exécution ;\n        </li>\n        <li>Administration des mécanismes de coopération dans le domaine judiciaire ;</li>\n        <li>Gestion du registre judiciaire national ;</li>\n        <li>Supervision de la cellule centrale de prise en charge des femmes victimes de violence.</li>\n\n        <hr className=\"my-5\" />\n\n        <h4 className=\"my-5\">\n            En outre, conformément aux textes législatifs et réglementaires en vigueur, elle est chargée\n            des tâches de secrétariat des deux comités suivants :\n        </h4>\n\n        <li className=\"pr-6\">\n            Le Comité national chargé de l'application des sanctions prévues dans les résolutions\n            du Conseil de sécurité des Nations unies relatives au terrorisme, à la prolifération\n            des armes et à leur financement ;\n        </li>\n        <li className=\"pr-6\">\n            Le Comité national de coordination des mesures de lutte contre la traite des êtres humains\n            et de prévention contre elle.\n        </li>\n    </ol>\n</div>"
+    },
+    "structural_organization": {
+        "title": "L'organisation structurelle de l'Observatoire National de la Criminalité",
+        "description": "Conformément aux dispositions de l'article 13 du décret du ministre de la justice n° 22-1501 du 22 Rabi' al-Awwal 1444 (19 octobre 2022) relatif à la détermination des compétences et à l'organisation des départements et services des directions centrales du ministère de la justice, l'Observatoire National de la Criminalité a pour mission de collecter les données statistiques des entités compétentes chargées de surveiller le phénomène criminel et de proposer des solutions pour sa prévention et sa lutte. Il comprend les services suivants :",
+        "professional_units": "Unités professionnelles",
+        "supporting_units": "Unités de soutien",
+        "professional_units_list": [
+            "Service de surveillance de la criminalité",
+            "Service d'étude et d'analyse du phénomène criminel",
+            "Service de prévention de la criminalité",
+            "Service de prévention de la criminalité"
+        ],
+        "supporting_units_list": [
+            "Service du casier judiciaire national",
+            "Service d'échange de casiers judiciaires internationaux",
+            "Service de documentation"
+        ]
+    },
+    "text_juri": {
+        "title": "Textes de référence pour les événements de l'Observatoire National de la Délinquance :",
+        "content": "<div>\n  <h4 className='my-5 font-bold'>\n    Décret n° 400-22-2 publié le 21 du mois de Rabi' al-Awwal 1444 (18 octobre 2022)\n    fixant les compétences et l'organisation du Ministère de la Justice\n  </h4>\n  <p>Comme indiqué à l'article 7 de ce décret :</p>\n  <ul className='list-disc pl-4 mb-4'>\n    <li>Élaborer et mettre en œuvre la stratégie du ministère pour développer le système judiciaire pénal ;</li>\n    <li>Contribuer à l'élaboration des orientations et des principes généraux de la politique pénale ;</li>\n    <li>Contribuer à la préparation de projets de textes législatifs et réglementaires relatifs au domaine pénal ;</li>\n    <li><strong>Surveiller, suivre et analyser le phénomène criminel et proposer des plans stratégiques pour prévenir la criminalité et la combattre ;</strong></li>\n    <li><strong>Effectuer des études et mener des recherches dans le domaine pénal ;</strong></li>\n    <li>Préparer les dossiers de demandes et propositions de grâce et de libération conditionnelle, et suivre leur mise en œuvre ;</li>\n    <li>Gérer les mécanismes de coopération dans le domaine pénal ;</li>\n    <li><strong>Gérer le registre judiciaire national ;</strong></li>\n    <li>Superviser la cellule centrale de prise en charge des femmes victimes de violences.</li>\n  </ul>\n  <p>En outre, selon les textes législatifs et réglementaires en vigueur, elle exerce les fonctions de secrétariat des deux comités suivants :</p>\n  <ul className='list-disc pl-4 mb-4'>\n    <li>Le Comité national chargé de l'application des sanctions prévues par les résolutions du Conseil de sécurité des Nations unies relatives au terrorisme, à la prolifération des armes et à leur financement ;</li>\n    <li>Le Comité national de coordination des mesures de lutte contre la traite des êtres humains et de prévention de ce phénomène.</li>\n  </ul>\n  <h4 className='my-5 font-bold'>\n    Arrêté du ministre de la Justice n° 22-1501 publié le 22 du mois de Rabi' al-Awwal 1444 (19 octobre 2022) relatif à la définition des compétences et de l'organisation des départements et services des directions centrales du Ministère de la Justice\n  </h4>\n  <p>Conformément aux dispositions de l'article 10 du décret ci-dessus :</p>\n  <ul className='list-disc pl-4 mb-4'>\n    <li>Section de la politique criminelle ;</li>\n    <li>Section des grâces et libérations conditionnelles ;</li>\n    <li><strong>Section appelée « Observatoire national de la criminalité » ;</strong></li>\n    <li>Section de gestion des mécanismes de coopération internationale en matière criminelle.</li>\n  </ul>\n  <p>Conformément aux dispositions de l'article 13 du décret ci-dessus :</p>\n  <ul className='list-disc pl-4'>\n    <li>« L'Observatoire national de la criminalité » assume les missions suivantes :</li>\n    <ul className='list-disc pl-4'>\n      <li>Collecter les données statistiques des entités compétentes en matière de suivi du phénomène criminel et proposer des solutions pour le prévenir et y faire face.</li>\n    </ul>\n    <li>Il comprend les services suivants :</li>\n    <ul className='list-disc pl-4'>\n      <li>Service de surveillance de la criminalité ;</li>\n      <li>Service d'étude et d'analyse du phénomène criminel ;</li>\n      <li>Service de prévention de la criminalité ;</li>\n      <li>Service du registre judiciaire national ;</li>\n      <li>Service d'échange de certificats de casier judiciaire au niveau international ;</li>\n      <li>Service de documentation.</li>\n    </ul>\n  </ul>\n</div>"
+    },
+    "observatoryPage": {
+        "title": "Observatoire",
+        "description": "Conformément aux directives royales visant à faire progresser le secteur judiciaire en général et la justice pénale en particulier, la Direction des affaires criminelles et des grâces a travaillé à la création d'un centre d'études et de recherches sur la politique pénale conformément à la résolution du ministre de la Justice n° 1939.10 publiée le Le 7 joumada al-Ula 1432 (11 avril 2011) concernant la définition des compétences et l'organisation des départements, et les départements affiliés aux directions centrales du ministère de la Justice, sont devenus l'Observatoire national de la criminalité.",
+        "content1": {
+            "title": "Accords internationaux",
+            "desc": "Documentation des accords multilatéraux, régionaux et bilatéraux"
+        },
+        "content2": {
+            "title": "Statistiques criminelles",
+            "desc": "Analyse des statistiques criminelles et création d'une banque d'informations juridiques et statistiques criminelles ;"
+        },
+        "content3": {
+            "title": "Bilan de la direction",
+            "desc": "Rapports et réalisations de la direction"
+        },
+        "content4": {
+            "title": "Publications",
+            "desc": "Supervision de la publication du magazine des affaires pénales"
+        },
+        "content5": {
+            "title": "Textes mis à jour",
+            "desc": "Compilation, documentation et mise à jour des textes juridiques à caractère pénal ; Compilation de circulaires et de bulletins du ministère de la Justice dans le domaine pénal"
+        },
+        "content6": {
+            "title": "Études et recherches criminelles",
+            "desc": "Réalisation d'études et de recherches dans le domaine de la justice pénale, fourniture de services aux juges, aux fonctionnaires, aux chercheurs et aux étudiants travaillant sur des sujets à caractère pénal"
+        },
+        "content7": {
+            "title": "Services fournis par le centre",
+            "desc": "Depuis sa création, le centre a commencé à créer une bibliothèque juridique pénale avec ses propres moyens, a immédiatement suivi la mise à jour des textes juridiques pénaux et les a compilés, ainsi que les jugements judiciaires et les accords bilatéraux et internationaux. Ses cadres sérieux travaillent à la préparation d'études précieuses dans des domaines criminels spécifiques."
+        },
+        "obPage": {
+            "title": "Textes de référence de la création de l’ONC :",
+            "text": "<div>\n    <h4 class=\"my-5\">\n        Décret n° 400-22-2 du 21 rabi'i I 1444 (18 octobre 2022) fixant les attributions et l'organisation du ministère de la Justice :\n    </h4>\n    <p>L'article 7 du décret ci-dessus prévoit que :</p>\n    <ul class=\"list-disc pl-4 mb-4\">\n        <li>Élaboration et mise en œuvre de la stratégie du ministère pour le développement du système pénal ;</li>\n        <li>Contribution à l'élaboration des orientations générales de la politique criminelle ;</li>\n        <li>Contribution à l'élaboration des projets de loi à caractère pénal ;</li>\n        <li>Suivi et analyse de la criminalité et proposition de plans stratégiques de prévention et de lutte contre la criminalité ;</li>\n        <li>Réalisation d'études et de recherches en matière pénale ;</li>\n        <li>Préparation des dossiers des demandes et propositions de grâce et de libération conditionnelle, et suivre leur mise en œuvre ;</li>\n        <li>Gestion des mécanismes de coopération dans le domaine pénal ;</li>\n        <li>Gestion du casier judiciaire national ;</li>\n        <li>Supervision de la cellule centrale d'assistance aux femmes victimes de violence.</li>\n    </ul>\n    <p>Elle est chargée également, selon les textes législatifs en vigueur, de la mission de secrétariat des deux commissions suivantes :</p>\n    <ul class=\"list-disc pl-4 mb-4\">\n        <li>La commission nationale chargée de l’application des sanctions du conseil de sécurité des nations unies relatives au terrorisme, à la prolifération des armes et à leur financement (CNASNU) ;</li>\n        <li>La commission nationale de coordination des mesures de lutte et de prévention contre la traite des êtres humains (CNCLT).</li>\n    </ul>\n\n    <h4 class=\"my-5\">\n        Arrêté du ministre de la Justice n° 22-1501 du 22 rabi'i I 1444 (19 octobre 2022) fixant les attributions et l'organisation des divisions et des services relevant des directions centrales du ministère de la Justice :\n    </h4>\n    <p>L’article 10 de l’arrêté ci-dessus prévoit que :</p>\n    <ul class=\"list-disc pl-4 mb-4\">\n        <li>Division de la politique criminelle ;</li>\n        <li>Division de grâce et de la libération conditionnelle ;</li>\n        <li>Division dénommée « l’observatoire national de la criminalité » ;</li>\n        <li>Division de la gestion des mécanismes de coopération internationale en matière pénale.</li>\n    </ul>\n    <p>L’article 13 de l’arrêté ci-dessus prévoit que :</p>\n    <ul class=\"list-disc pl-4\">\n        <li>L’observatoire national de la criminalité est chargé de :</li>\n        <ul class=\"list-disc pl-4\">\n            <li>Collecter les différentes données statistiques des parties concernées par le suivi de la criminalité, les analyser et les étudier afin de proposer des solutions concrètes pour prévenir et y faire face au phénomène criminel.</li>\n        </ul>\n        <li>Il comprend les services suivants :</li>\n        <ul class=\"list-disc pl-4\">\n            <li>Service de suivi de la criminalité ;</li>\n            <li>Service d'étude et d'analyse de la criminalité ;</li>\n            <li>Service de prévention de la criminalité ;</li>\n            <li>Service du casier judiciaire national ;</li>\n            <li>Service d'échange des fiches du casier judiciaire au niveau international ;</li>\n            <li>Service de documentation.</li>\n        </ul>\n    </ul>\n</div>"
+        },
+        "text2": "<div>\n  <p>Les orientations royales ont constitué la première pierre fondamentale pour la création de l'Observatoire national de la criminalité, mentionnées dans le discours du Trône à l'occasion du 56e anniversaire de la Révolution du Roi et du Peuple, daté du 20 août 2009, où Sa Majesté le Roi a souligné la nécessité de créer un observatoire national de la criminalité en raison de son importance pour aller de l'avant dans la lutte contre le phénomène criminel.</p>\n  <p>Les recommandations de la Charte de la réforme du système judiciaire de 2013, notamment la recommandation n° 92, ont renforcé les orientations royales dans ce domaine, en soulignant l'urgence et l'importance capitale de cet observatoire dans le cadre de la surveillance et de la lutte contre le phénomène criminel.</p>\n  <p>Par conséquent, la création de l'Observatoire national de la criminalité au Ministère de la Justice, en vertu du décret n° 400-22-2 du 18 octobre 2022, relatif à la définition des compétences et à l'organisation du Ministère de la Justice, constitue une étape importante dans le processus de modernisation des mécanismes de la justice pénale nationale pour suivre l'évolution internationale à cet égard, ainsi qu'un soutien aux efforts de la politique criminelle marocaine pour lutter contre le phénomène criminel, notamment avec les transformations que subit ce phénomène, nécessitant ainsi une intensification des efforts de surveillance, de suivi, d'analyse de la situation, d'étude de ses causes et de ses effets, ainsi que la proposition de mesures préventives et répressives. L'Observatoire national de la criminalité est chargé de collecter les données statistiques des entités spécialisées dans la surveillance du phénomène criminel et de proposer des solutions pour sa prévention et sa lutte.</p>\n  <p>Contactez-nous</p>\n</div>"
+    },
+    "Footer": {
+        "title_1": "Contactez-nous",
+        "title_2": "Liens rapides",
+        "adress": "Place Mamounia, B.P. 10:5, Rabat, Maroc",
+        "phone": "05 37 70 21 47",
+        "email": "dapg@justice.org.ma",
+        "privacy": "Les politiques de confidentialité",
+        "buttom": "Tous droits réservés, Direction des Affaires Criminelles et des Grâces"
+    }
+}

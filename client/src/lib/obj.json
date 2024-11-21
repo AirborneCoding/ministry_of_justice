@@ -1,0 +1,35 @@
+{
+    "articles": [
+        {
+            "id": 11,
+            "documentId": "ba3hqoxzoklw9fxzlm9o8sru",
+            "title": "وزير العدل يعرض على مجلس الحكومة أبرز تطورات مشروع قانون الإجراءات الجزائية",
+            "slug": "le-ministre-de-la-justice-presente-au-conseil-de-gouvernement-les-principales-evolutions-du-projet-de-loi-de-procedure-penale",
+            "content": "<p>انعقد يوم الخميس 10 رمضان 1445، الموافق 21 مارس 2024، مجلس حكومي برئاسة السيد عزيز أخنوش، خصص لتقديم عرض قطاعي، للتداول حول عدد من مشاريع النصوص القانونية، للنظر في مشروع قانون دولي. الاتفاق والتداول في مقترحات التعيين في المناصب العليا وفق الفصل 92 من الدستور.</p><p>وعلى مستوى قطاع العدل، تابع المجلس الحكومي عرضا حول أبرز تطورات مشروع تنقيح قانون الإجراءات الجزائية، قدمه السيد عبد اللطيف وهبي وزير العدل.</p><p>وفي هذا السياق، أشار وزير العدل إلى أن مشروع مراجعة مجلة الإجراءات الجزائية يندرج ",
+            "createdAt": "2024-11-18T14:18:40.066Z",
+            "updatedAt": "2024-11-18T14:18:40.066Z",
+            "publishedAt": null,
+            "locale": "ar",
+            "image": {
+                "id": 4,
+                "url": "https://ik.imagekit.io/kndzajhkh/ministry/Whats_App_Image_2024_11_14_at_13_07_4832_c34402e2b4__gzeAoztC.jpg"
+            }
+        }
+    ],
+    "publications": [
+        {
+            "id": 26,
+            "documentId": "npbkapzo9l2grq8oo1xkrzzc",
+            "title": "قانون المصاريف القضائية مع ملحق قانون المساعدة القضائية",
+            "createdAt": "2024-11-18T14:54:45.079Z",
+            "updatedAt": "2024-11-18T14:55:35.281Z",
+            "publishedAt": null,
+            "locale": "ar",
+            "category": "موجز_سياسة",
+            "image": {
+                "id": 11,
+                "url": "https://ik.imagekit.io/kndzajhkh/ministry/2023_06_19_T12_37_56_883_Zpostlawprojects2_868744dba4_kLyKmm4bS.PNG"
+            }
+        }
+    ]
+}
