@@ -13,6 +13,7 @@ import { useQuery } from "@tanstack/react-query";
 import { fetchArticlesInHome } from "@/utils/Apis/articles.apis";
 
 const ArticlesSection = () => {
+    
 
     const locale = useLocale()
     const [isPaused, setIsPaused] = useState(false);

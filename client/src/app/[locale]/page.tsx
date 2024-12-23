@@ -28,6 +28,9 @@ const page = async ({ params: { locale } }: { params: { locale: string } }) => {
         queryFn: () => fetchPublicationsInHome(locale)
     });
 
+
+    
+
     return (
         <HydrationBoundary state={dehydrate(queryClient)}>
             <main>
