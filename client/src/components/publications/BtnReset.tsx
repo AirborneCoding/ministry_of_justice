@@ -1,28 +1,17 @@
-"use client"
+"use client";
+
 import { useLocale } from "next-intl";
-import { usePathname, useRouter, useSearchParams } from "next/navigation";
+import React from "react";
 
-
-const BtnReset = () => {
+const BtnReset: React.FC<{ onReset: () => void }> = ({ onReset }) => {
     const locale = useLocale()
-    const searchParams = useSearchParams();
-    const pathname = usePathname();
-    const { replace } = useRouter();
-
-    function handleClick() {
-        const params = new URLSearchParams(searchParams.toString())
-        params.delete('category')
-        params.delete('page')
-        params.delete('search_publications')
-        replace(`${pathname}?${params.toString()}`);
-    }
     return (
         <button
-            onClick={handleClick}
+            onClick={onReset}
             className="btn btn-neutral w-52">
             {locale == "ar" ? "الكل" : "Tous"}
         </button>
-    )
+    );
 };
 
 export default BtnReset;

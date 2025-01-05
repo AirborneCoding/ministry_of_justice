@@ -7,15 +7,33 @@
 //     { ar: "سلسلة الإتفاقات", fr: "Série d'accords" }
 // ];
 
+// export const projectsAndLaws = [
+//     { ar: "مجلات المرصد", fr: "Revues de l'observatoire" },
+//     { ar: "دراسة موضوعاتية", fr: "Étude thématique" },
+//     { ar: "موجز سياسة", fr: "Résumé politique" },
+//     { ar: "تقارير", fr: "Rapports" },
+//     { ar: "سلسلة الإتفاقات", fr: "Série d'accords" },
+//     { ar: "نصوص قانونية", fr: "Textes juridiques" },
+// ];
+
 export const projectsAndLaws = [
-    { ar: "مجلات المرصد", fr: "Revues de l'observatoire" },
-    { ar: "دراسة موضوعاتية", fr: "Étude thématique" },
-    { ar: "موجز سياسة", fr: "Résumé politique" },
-    { ar: "دراسات", fr: "Études" },
-    { ar: "تقارير", fr: "Rapports" },
-    { ar: "تقارير سنوية", fr: "Rapports annuels" }
+    { ar: "مجلات المرصد", fr: "Revues de l'observatoire", api: "مجلات_المرصد" },
+    { ar: "دراسة موضوعاتية", fr: "Étude thématique", api: "دراسة_موضوعاتية" },
+    { ar: "موجز سياسة", fr: "Résumé politique", api: "موجز_سياسة" },
+    { ar: "تقارير", fr: "Rapports", api: "تقارير" },
+    { ar: "سلسلة الإتفاقات", fr: "Série d'accords", api: "سلسلة_الإتفاقات" },
+    { ar: "نصوص قانونية", fr: "Textes juridiques", api: "نصوص_قانونية" },
 ];
 
+
+/* 
+       "مجلات_المرصد",
+        "دراسة_موضوعاتية",
+        "موجز_سياسة",
+        "تقارير",
+        "سلسلة_الإتفاقات",
+        "نصوص_قانونية"
+*/
 
 
 export const satistics = [

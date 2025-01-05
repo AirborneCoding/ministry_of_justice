@@ -1,4 +1,4 @@
-'use client';
+"use client";
 
 import React, { useState, useEffect } from "react";
 import { BsMoonFill, BsSunFill } from "react-icons/bs";
@@ -16,7 +16,7 @@ const getThemeFromLocalStorage = () => {
     return themes.dark;
 };
 
-const setDocumentTheme = (theme: string) => {
+const setDocumentTheme = (theme: any) => {
     document.documentElement.setAttribute('data-theme', theme);
 };
 
@@ -27,32 +27,26 @@ const Theme = () => {
         setDocumentTheme(theme);
     }, [theme]);
 
-
     const handleTheme = () => {
-        const selectedTheme = isDarkTheme ? themes.light : themes.dark
-        setTheme(selectedTheme);
-        document.documentElement.setAttribute('data-theme', theme)
-        localStorage.setItem('theme', selectedTheme);
+        const newTheme = theme === themes.dark ? themes.light : themes.dark;
+        setTheme(newTheme);
+        localStorage.setItem('theme', newTheme);
     };
 
-    const isDarkTheme = theme === themes.light;
+    const isDarkTheme = theme === themes.dark;
 
     return (
-        <div className="flex items-center gap-2">
-            {/* Toggle button between light and dark */}
-            <label className="swap swap-rotate">
-                <input
-                    type="checkbox"
-                    onChange={handleTheme}
-                    defaultChecked={isDarkTheme}
-                // checked={isDarkTheme || isLightTheme}
-                />
-                {/* sun icon (light mode) */}
-                <BsSunFill className="swap-on text-yellow-500" size={22} />
-                {/* moon icon (dark mode) */}
-                <BsMoonFill className="swap-off text-gray-500" size={22} />
-            </label>
-        </div>
+        <label className='swap swap-rotate'>
+            <input
+                type='checkbox'
+                onChange={handleTheme}
+                checked={isDarkTheme}
+            />
+            {/* sun icon*/}
+            <BsSunFill className='swap-on text-yellow-500' size={22} />
+            {/* moon icon*/}
+            <BsMoonFill className='swap-off text-gray-500' size={22} />
+        </label>
     );
 };
 
