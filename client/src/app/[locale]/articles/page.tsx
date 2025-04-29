@@ -1,7 +1,7 @@
 import ArticlesData from "@/components/articles/ArticlesData";
 import { fetchAllArticles } from "@/utils/Apis/articles.apis";
 import { dehydrate, HydrationBoundary, QueryClient } from "@tanstack/react-query";
-
+export const maxDurations = 60; 
 export default async function Page({ params: { locale } }: { params: { locale: string } }) {
 
   const queryClient = new QueryClient();
